@@ -1,8 +1,6 @@
 <div align="center">
 
-# Gabriel Muza
-
-Python Backend Developer
+# Python Backend Developer
 
 </div>
 
@@ -99,7 +97,9 @@ Funcionalidades:
 ## Contribuições
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/achecat/achecat/snake-output/snake.svg" alt="Snake animation" />
+  <a href="https://github.com/achecat">
+    <img src="https://raw.githubusercontent.com/achecat/achecat/snake-output/snake.svg" alt="Snake animation" />
+  </a>
 </div>
 
 ---
@@ -109,7 +109,8 @@ Funcionalidades:
 <div align="left">
   <a href="https://www.linkedin.com/in/gabrielmuza/">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a href="mailto:gmuza1@outlook.com">
+  </a>
+  <a  href="mailto:gmuza1@outlook.com">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
   </a>
 </div>
